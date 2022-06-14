@@ -1,0 +1,24 @@
+{
+  "name": "bulk_verify_biometic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bayquni",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/bayquni/bulk-facematch-biometric.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/bayquni/bulk-facematch-biometric/issues"
+  },
+  "homepage": "https://gitlab.com/bayquni/bulk-facematch-biometric#readme",
+  "description": ""
+}
