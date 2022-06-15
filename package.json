@@ -14,11 +14,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/bayquni/bulk-facematch-biometric.git"
+    "url": "git+https://github.com/akhmadbayquni/bulk-facematch.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/bayquni/bulk-facematch-biometric/issues"
+    "url": "https://github.com/akhmadbayquni/bulk-facematch/issues"
   },
-  "homepage": "https://gitlab.com/bayquni/bulk-facematch-biometric#readme",
+  "homepage": "https://github.com/akhmadbayquni/bulk-facematch.git#readme",
   "description": ""
 }
