@@ -12,6 +12,7 @@ const writeStream = fs.createWriteStream('./temp/data.csv');
 for(let i = 0; i < data.length; i++){
     if(i == 0){
         writeStream.write(`${data[i]} \n`)
+        //test
 
     }else{
         
